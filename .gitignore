@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+reports/
+.playwright-mcp/
+*.log
+data/raw/
+outputs/
+design/
+build_revenue_workbook.mjs
